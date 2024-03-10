@@ -1,7 +1,7 @@
 {
   "name": "tea-choudru",
-  "version": "1.0.0",
-  "description": "Basic demonstration app",
+  "version": "1.0.2",
+  "description": "tea-choudru",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
     "url": "https://github.com/choudru/tea-choudru.git"
   },
   "dependencies": {
+    "tea-choudru": "1.0.2",
     "cheh-demonstration": "1.0.2"
   },
   "author": "",
